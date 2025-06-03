@@ -1,5 +1,42 @@
 # Daily log of notes and things to do
 
+## June 3, 2025
+
+- Getting back into writing notes here.
+- WS-6127 investigate comments by Betty about missing warnings.
+- WS-6104 Failed by Jessica due to metric tonnes switching to imperial tons.
+  - blocked by missing permissions, hoping Holden can help me out.
+
+## April 23, 2025
+
+- WS-6106 IBM tokens
+  1. Identify where current observations are being used.
+    Can they be called on demand rather than on every missing record?
+  2. Look into v1 and v3 forcast calls with the old token.
+
+## March 17, 2025
+
+- CI Score review
+  - We need to make sure the CI score is re-calculated when changes are made in final review
+    - The CI score probably shouldn't be re-calculated in the attested status
+  - Is the PDF being stored?
+    - What happens when there are changes?
+  - Will all fields be in a single state?
+    - It could be possible they go across state borders
+    - If possible lets move the state to the PDF table rather than as a header.
+
+## March 3, 2025
+
+- WS-6015 CI Form PR
+  - Just about ready for review.
+  - Addressing some race conditions
+- WS-6061
+  - Still in progress
+  - 
+- WS-6063
+  - Will not be able to finish
+  - Move back to TODO
+
 ## Jan 23, 2025
 
 - WS-6013 Greet payload
