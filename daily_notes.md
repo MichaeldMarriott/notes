@@ -1,11 +1,34 @@
 # Daily log of notes and things to do
 
+## June 6, 2025
+
+- Look into Agentic AI implementations and plan for meeting on June 9th
+- Disable docusign carbon unit test classes because they take sooooo long to run.
+- Update timesheet
+- WS-6105 correct mismatch between county and state
+- WS-6125 pass users timezone to callisto for attestation pdf
+
+## June 5, 2025
+
+- Looking into why Pam carbon unit tests are taking soooooo long to run.
+- WS-6136 for using the baled area
+
+## June 4, 2025
+
+- Updating WS-6135
+  - rebase on release branch and update migration file.
+- Add data migrations to ws-6158 for changing fd_cic to usda.
+- WS-6136 for using the baled area in the diesel calc is ready for dev.
+  - Set to in progess.
+
 ## June 3, 2025
 
 - Getting back into writing notes here.
 - WS-6127 investigate comments by Betty about missing warnings.
 - WS-6104 Failed by Jessica due to metric tonnes switching to imperial tons.
   - blocked by missing permissions, hoping Holden can help me out.
+- Change fd_cic to usda in CI score.
+- Look into Agentic AI, specifically perhaps google implementations.
 
 ## April 23, 2025
 
